@@ -14,7 +14,7 @@
 
 # Delta Infectiousness Profile Simulation
 
-delta_simulation <- function(beta, gamma, N, I){ 
+delta_sim <- function(beta, gamma, N, I){ 
   #population constraints
   S = N - I
   
