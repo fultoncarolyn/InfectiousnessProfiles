@@ -3,7 +3,7 @@
 
 ### Code Guide
 
-See makefile.R to run all necessary code to produce a plot comparing stochastic trajectories (dependent on the infectiousness profile) to the analytical solution to the SIR ODE system.
+See makefile.R to run all necessary code to produce a plot comparing infectiousness profile dependent stochastic trajectories to the analytical solution of the SIR ODE system.
 
 CompareProfiles.R -> Plots comparison between specified stochastic and analytical models
 delta_sim.R -> Simulates infectiousness as a delta spiking function
